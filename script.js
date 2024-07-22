@@ -22,4 +22,17 @@ nameofstudents.push("jasmin","sultam","bhaii");
 console.log("LENGTH OF ORIGINAL" , nameofstudents.length);
 console.log("ORIGINAL" , nameofstudents);
 
+// let employes = ["khalid","umer","bajwa","ali","kamran"];
+
+// function tofind(value, index, array){
+//  if (value == "khaild"){
+//    return ""
+// }
+// else{
+//     return value
+// }
+// }
+
+// var result = employes.map(tofind);
+// console.log(result)
 
